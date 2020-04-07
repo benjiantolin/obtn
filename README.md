@@ -1,2 +1,2 @@
 # obtn
-Oregon by then Numbers Geo Dashboard
+Oregon by the Numbers Geo-Dashboard
